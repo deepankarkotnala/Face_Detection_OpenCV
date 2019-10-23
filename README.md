@@ -1,2 +1,2 @@
-# Face_Detection_OpenCV
+# OpenCV - Face Detection
 A basic face detection app created using OpenCV
